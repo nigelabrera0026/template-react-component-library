@@ -1,5 +1,8 @@
 {
-  "name": "ui-lib-test",
+  "name": "@nigelabrera0026/template-react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/nigelabrera0026"
+  },
   "version": "0.0.1",
   "description": "A UI component library, test dev",
   "scripts": {
